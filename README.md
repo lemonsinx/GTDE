@@ -1,0 +1,1 @@
+The SMACv2 benchmark is based on https://github.com/marlbenchmark/on-policy, and the Battle scenario is based on https://github.com/deligentfool/mfrl_pytorch.
